@@ -1,5 +1,5 @@
 # CYB333-Final-Project
-Clone the repository: git clone https://github.com/yourusername/incident-response-automation cd incident-response-automation
+Clone the repository: git clone https://github.com/rgarcia2204/incident-response-automation cd incident-response-automation
 Make the script executable: chmod +x monitor.sh
 Run the script: ./monitor.sh
 Evidence will be saved automatically in the logs/ directory.
