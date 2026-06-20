@@ -31,3 +31,14 @@ incident-response-automation/
 ![Detection](screenshots/01_detection_and_response.png)
 ![Evidence](screenshots/02_evidence_collection.png)
 ![IP Blocked](screenshots/03_ip_blocked.png)
+
+## Screenshots
+
+### 1. Detection & Response
+Shows the script detecting SSH brute-force attempts and initiating automated response.
+
+### 2. Evidence Collection
+Demonstrates logs being captured and stored in the /logs directory.
+
+### 3. IP Blocking
+Shows attacker IPs being identified and blocked via iptables.
