@@ -27,3 +27,7 @@ incident-response-automation/
 ├── reset-firewall.sh   (optional)
 ├── logs/               (auto-generated)
 └── README.md
+
+![Detection](screenshots/01_detection_and_response.png)
+![Evidence](screenshots/02_evidence_collection.png)
+![IP Blocked](screenshots/03_ip_blocked.png)
